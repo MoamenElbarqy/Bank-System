@@ -32,17 +32,18 @@ users must log in with their credentials. The login menu looks like this:
 👤 Enter Username: ________
 🔑 Enter Password: ________
 -------------------------------
+~~~
 
 ## 📌 Example Users (from SystemUsers.txt)
-
+~~~
 Username: Admin  |  Password: 1234  |  Permissions: Full access  
 Username: User1  |  Password: 1111  |  Permissions: Full access  
 Username: User4  |  Password: 4447  |  Permissions: Limited access  
-
+~~~
 ## 📌 Main Menu
 
 Once logged in, users are greeted with the Main Menu, which looks like this:
-
+~~~
 ===================================
           Main Menu Screen
 ===================================
@@ -56,7 +57,7 @@ Once logged in, users are greeted with the Main Menu, which looks like this:
 [8] Logout  
 [9] Exit  
 ===================================
-
+~~~
 
 ## 📌 Installation & Usage
 
@@ -80,12 +81,13 @@ Compile and run the program.
 └──  README.md               # Project documentation
 
  ## 📌 Example Clients (from SystemClients.txt)
-
+ ~~~
  Account: A150  |  PIN: 4966  |  Name: Moamen   |  Phone: 01033162134  |  Balance: $10,111
  Account: A151  |  PIN: 1234  |  Name: Moustafa |  Phone: 01055555646  |  Balance: $6,000
  Account: A152  |  PIN: 1234  |  Name: Mohamed  |  Phone: 01771149059  |  Balance: $12,000
  Account: A153  |  PIN: 1234  |  Name: Ahemd    |  Phone: 01011665514  |  Balance: $8,000
  Account: A155  |  PIN: 1234  |  Name: Ali      |  Phone: 01281677743  |  Balance: $305,000
+~~~
 ## Warning
 You can't delete the admin user from the file system using the program.
 All phone numbers used in the example clients are Fake and do not belong to real individuals.
