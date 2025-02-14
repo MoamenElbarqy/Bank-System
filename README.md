@@ -88,6 +88,7 @@ Compile and run the program.
  Account: A153  |  PIN: 1234  |  Name: Ahemd    |  Phone: 01011665514  |  Balance: $8,000
  Account: A155  |  PIN: 1234  |  Name: Ali      |  Phone: 01281677743  |  Balance: $305,000
 ~~~
-## Warning
-You can't delete the admin user from the file system using the program.
-All phone numbers used in the example clients are Fake and do not belong to real individuals.
+## ⚠️ Warning
+You can't delete the admin user from the file system using the program
+
+All phone numbers used in the example clients are Fake and do not belong to real individuals
