@@ -64,6 +64,7 @@ Once logged in, users are greeted with the Main Menu, which looks like this:
 The system requires two files for storing data:
 
 SystemUsers.txt: Stores system user credentials and permissions.
+
 SystemClients.txt: Stores client account details.
 
 Clone this repository or download the source files.
@@ -74,11 +75,14 @@ Compile and run the program.
 
 ## 📌 Project Structure
 
-.
-├──  Bank.cpp                # Main source code
-├──  SystemClients.txt       # simulation to a Database of clients
-├──  SystemUsers.txt         # simulation to a Database of users
-└──  README.md               # Project documentation
+  Bank.cpp                # Main source code
+  
+  SystemClients.txt       # simulation to a Database of clients
+  
+  SystemUsers.txt         # simulation to a Database of users
+  
+  README.md               # Project documentation
+  
 
  ## 📌 Example Clients (from SystemClients.txt)
  ~~~
