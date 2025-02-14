@@ -24,10 +24,10 @@ This is a simple Bank Management System written in C++, file based and console a
  User Interface Preview
 ## 📌 Login Menu
 
-When you run the system, you will be greeted with the Main Menu, which looks like this:
-Before accessing the system, users must log in with their credentials. The login menu looks like this:
+users must log in with their credentials. The login menu looks like this:
+~~~
 ===============================
-         Login Screen
+         Login Screen      
 ===============================
 👤 Enter Username: ________
 🔑 Enter Password: ________
@@ -35,26 +35,28 @@ Before accessing the system, users must log in with their credentials. The login
 
 ## 📌 Example Users (from SystemUsers.txt)
 
- Username: Admin  |  Password: 1234  |  Permissions: Full access
- Username: User1  |  Password: 1111  |  Permissions: Full access
- Username: User4  |  Password: 4447  |  Permissions: Limited access
+Username: Admin  |  Password: 1234  |  Permissions: Full access  
+Username: User1  |  Password: 1111  |  Permissions: Full access  
+Username: User4  |  Password: 4447  |  Permissions: Limited access  
 
 ## 📌 Main Menu
 
 Once logged in, users are greeted with the Main Menu, which looks like this:
+
 ===================================
           Main Menu Screen
 ===================================
-[1] Show Client List
-[2] Add New Client 
-[3] Delete Client 
-[4] Update Client Info 
-[5] Find Client 
-[6] Transactions 
-[7] Manage Users 
-[8] Logout 
-[9] Exit 
+[1] Show Client List  
+[2] Add New Client  
+[3] Delete Client  
+[4] Update Client Info  
+[5] Find Client  
+[6] Transactions  
+[7] Manage Users  
+[8] Logout  
+[9] Exit  
 ===================================
+
 
 ## 📌 Installation & Usage
 
